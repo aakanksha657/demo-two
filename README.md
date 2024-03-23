@@ -12,3 +12,6 @@ update no 3
 
 checking
 
+
+
+shorter version of git push
